@@ -20,14 +20,13 @@ sudo raspi-config >> camera >> enable >> reboot
 -after configuration:
 
 paso1 - run the command:
+Python3 <file path> / <file name.py>
 
-python3 <file path> / <file name.py>
-
-step 2 -
+step 2 :
 
 type the file name and hit enter
 
-step 3 - (video script only)
+step 3 - (video script only): 
 
 type the video time in second and hit enter
 
@@ -56,11 +55,11 @@ paso1 - rode o comando:
 
 python3 <caminho do arquivo>/<nome DO arquivo.py> 
 
-passo 2 - 
+passo 2 :
 
 digite o nome do aquivo e tecle enter
 
-passo 3 - (apenas para o script de video)
+passo 3 - (apenas para o script de video):
 
 digite o tempo do video em segundo e tecle enter
 
