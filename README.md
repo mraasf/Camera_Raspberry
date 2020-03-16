@@ -9,8 +9,10 @@ Basic tests of image and video capture with raspberry and camera module (piCamer
 To test the script it is necessary:
 
 - install :
-Python 3
-PiCamera Module
+
+-Python 3
+
+- PiCamera Module
 
 
 - Enable the camera in the raspberry settings:
@@ -41,7 +43,9 @@ Testes basicos de captura de imagem e video com raspberry e camera(piCamera)
 Para testar o script é  necessário  :
 
 - instalar :
+
 Python 3
+
 Modulo PiCamera
 
 
