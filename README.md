@@ -1,6 +1,7 @@
 # Camera_Raspberry
 By: MRAASF
 
+Scripts para testes basicos de captura de imagem e video com raspberry e camera(piCamera)
 
 ====================== EN-US ==========================
 
